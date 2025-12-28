@@ -1,0 +1,47 @@
+{
+  "page_type": "comparison",
+  "product_a_name": "GlowBoost Vitamin C Serum",
+  "product_b_name": "LuminaGlow Vitamin C+ Serum",
+  "comparison_items": [
+    {
+      "attribute": "Vitamin C Concentration",
+      "product_a": "10% Vitamin C",
+      "product_b": "20% Vitamin C"
+    },
+    {
+      "attribute": "Key Ingredients",
+      "product_a": "Vitamin C, Hyaluronic Acid",
+      "product_b": "Vitamin C, Ferulic Acid, Vitamin E"
+    },
+    {
+      "attribute": "Main Benefits",
+      "product_a": "Brightening, Fades dark spots",
+      "product_b": "Brightening, Anti-aging, Radiance boost"
+    },
+    {
+      "attribute": "Price",
+      "product_a": "₹699",
+      "product_b": "₹1299"
+    },
+    {
+      "attribute": "Suitable for Skin Types",
+      "product_a": "Oily, Combination",
+      "product_b": "Normal, Dry"
+    },
+    {
+      "attribute": "Application Frequency",
+      "product_a": "2-3 drops in morning",
+      "product_b": "3-4 drops morning and night"
+    },
+    {
+      "attribute": "Potential Side Effects",
+      "product_a": "Mild tingling for sensitive skin",
+      "product_b": "May cause temporary redness in very sensitive skin"
+    },
+    {
+      "attribute": "Value for Money",
+      "product_a": "Excellent for budget-conscious users",
+      "product_b": "Premium option with higher concentration"
+    }
+  ]
+}

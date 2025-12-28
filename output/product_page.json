@@ -1,0 +1,120 @@
+{
+  "page_type": "product",
+  "product_name": "GlowBoost Vitamin C Serum",
+  "sections": {
+    "overview": [
+      {
+        "label": "Product Name",
+        "value": "GlowBoost Vitamin C Serum",
+        "data_type": "string"
+      },
+      {
+        "label": "Concentration",
+        "value": "10% Vitamin C",
+        "data_type": "string"
+      }
+    ],
+    "benefits": [
+      {
+        "label": "Title",
+        "value": "GlowBoost Vitamin C Serum Benefits",
+        "data_type": "string"
+      },
+      {
+        "label": "Benefits",
+        "value": [
+          "Brightening",
+          "Fades dark spots"
+        ],
+        "data_type": "list"
+      }
+    ],
+    "ingredients": [
+      {
+        "label": "Title",
+        "value": "Key Ingredients in GlowBoost Vitamin C Serum",
+        "data_type": "string"
+      },
+      {
+        "label": "Ingredients",
+        "value": [
+          "Vitamin C",
+          "Hyaluronic Acid"
+        ],
+        "data_type": "list"
+      },
+      {
+        "label": "Concentration",
+        "value": "10% Vitamin C",
+        "data_type": "string"
+      }
+    ],
+    "usage": [
+      {
+        "label": "Title",
+        "value": "How to Use GlowBoost Vitamin C Serum",
+        "data_type": "string"
+      },
+      {
+        "label": "Instructions",
+        "value": "Apply 2–3 drops in the morning before sunscreen",
+        "data_type": "string"
+      },
+      {
+        "label": "Timing",
+        "value": "Morning before sunscreen",
+        "data_type": "string"
+      }
+    ],
+    "safety": [
+      {
+        "label": "Title",
+        "value": "Safety Information for GlowBoost Vitamin C Serum",
+        "data_type": "string"
+      },
+      {
+        "label": "Side Effects",
+        "value": [
+          "Mild tingling for sensitive skin"
+        ],
+        "data_type": "list"
+      },
+      {
+        "label": "Precautions",
+        "value": [
+          "Perform a patch test before full application",
+          "Use sunscreen when using Vitamin C serums",
+          "Avoid mixing with certain acids initially"
+        ],
+        "data_type": "list"
+      }
+    ],
+    "price": [
+      {
+        "label": "Price",
+        "value": "₹699",
+        "data_type": "string"
+      },
+      {
+        "label": "Currency",
+        "value": "INR",
+        "data_type": "string"
+      },
+      {
+        "label": "Value Proposition",
+        "value": "Premium quality at accessible pricing",
+        "data_type": "string"
+      }
+    ],
+    "compatibility": [
+      {
+        "label": "Suitable Skin Types",
+        "value": [
+          "Oily",
+          "Combination"
+        ],
+        "data_type": "list"
+      }
+    ]
+  }
+}
